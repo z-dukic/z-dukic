@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Zoran Đukić
-- 🌱 I’m currently learning Java.
+- :computer: Apprentice magento dev
+- :briefcase: Trive d.o.o. Osijek, Croatia
 
 
 <!---
