@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Zoran Đukić
-- :computer: Apprentice magento dev
-- :briefcase: Trive d.o.o. Osijek, Croatia
+- 👋 Hi
+
 
 
 <!---
